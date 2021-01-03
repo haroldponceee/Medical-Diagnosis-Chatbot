@@ -1,4 +1,4 @@
-# Medicao-Diagnosis-Chatbot
+# Medical-Diagnosis-Chatbot
 A web app chatbot based on Python Flask, Chatterbot, SQLAlchemy, and Hexo design for initial medical diagnosis of common diseases.
 
 Make sure you have installed git, nodejs, hexo, and python 3.x
