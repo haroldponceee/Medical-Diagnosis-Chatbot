@@ -28,3 +28,4 @@ Second:
 python3 train.py
 python3 run.py
 ```
+Then, go back to the hexo server you have opened. (locahost:PORT or 127.0.0.1:PORT)
