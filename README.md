@@ -20,11 +20,13 @@ npm install hexo-renderer-pug --save
 There are two separate runs that should happen here on the command line.
 First:
 ```sh
+cd Medical-Diagnosis-Chatbot
 hexo clean
 hexo server
 ```
 Second:
 ```sh
+cd Medical-Diagnosis-Chatbot
 python3 train.py
 python3 run.py
 ```
