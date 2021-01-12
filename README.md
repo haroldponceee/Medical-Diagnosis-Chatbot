@@ -20,6 +20,7 @@ npm install hexo-renderer-pug --save
 There are two separate runs that should happen here on the command line.
 First:
 ```sh
+npm install hexo-renderer-pug --save
 cd Medical-Diagnosis-Chatbot
 hexo clean
 hexo server
